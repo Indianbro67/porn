@@ -6,7 +6,7 @@ Best YouTube Video or Audio Downloader in TeleGram By @TeamTeleRoid........
 
 > This bot can download video or audio from youtube quickly (custom thumbnail support) Can be found in telegram as [@TeleRoidYoutubeBot](https://t.me/TeleRoid_YouTube_Bot)
 
-<a href="https://heroku.com/deploy?template= https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/TG-YouTube-Uploader">
+<a href="https://heroku.com/deploy?template=https://github.com/Ravi12ndu/TG-YouTube-Uploaderph">
     <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="100" width="240"></a>
 </p>
 ### Credits:
