@@ -111,7 +111,7 @@ async def about(client, message):
 # Reply with inline keyboard
 @Jebot.on_message(filters.private
                    & filters.text
-                   & ~filters.edited
+                   & filters.edited
                    & filters.regex(YTDL_REGEX))
 async def ytdl_with_button(_, message: Message):
     await message.reply_text(
